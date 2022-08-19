@@ -1,0 +1,65 @@
+{
+    "Player Info": {
+        "Player Name": "Steven Chmielowski",
+        "Character Name": "Xain The Great",
+        "Race": "Dragonborn",
+        "Class": "Paladin",
+        "Background": "Folk Hero",
+        "Alignment": "Chaotic Evil",
+        "Biography": "I'm the best there is!\nUnstoppable!",
+        "Level": 13
+    },
+    "Attributes": {
+        "Class Bonus HP": 10,
+        "Other Bonus HP": 9,
+        "Level-Up Bonus HP": 8,
+        "Base Strength": "13",
+        "Race Bonus Strength": 10,
+        "Class Bonus Strength": 6,
+        "Level-Up Bonus Strength": 5,
+        "Base Dexterity": "8",
+        "Race Bonus Dexterity": 10,
+        "Class Bonus Dexterity": 5,
+        "Level-Up Bonus Dexterity": 5,
+        "Base Constitution": "15",
+        "Race Bonus Constitution": 9,
+        "Class Bonus Constitution": 6,
+        "Level-Up Bonus Constitution": 6,
+        "Base Intelligence": "10",
+        "Race Bonus Intelligence": 6,
+        "Class Bonus Intelligence": 5,
+        "Level-Up Bonus Intelligence": 6,
+        "Base Wisdom": "14",
+        "Race Bonus Wisdom": 7,
+        "Class Bonus Wisdom": 6,
+        "Level-Up Bonus Wisdom": 7,
+        "Base Charisma": "12",
+        "Race Bonus Charisma": 7,
+        "Class Bonus Charisma": 8,
+        "Level-Up Bonus Charisma": 6
+    },
+    "Proficiencies and Languages": [
+        "English"
+    ],
+    "Attacks and Spells": [
+        "Poke",
+        "asdf"
+    ],
+    "Equipment": [
+        "Sword of Awesomeness"
+    ],
+    "Features and Traits": [
+        "Chisled Chin",
+        "Sweet Cape and spandex"
+    ],
+    "Personality Traits": [
+        "The Best! (arrogant)"
+    ],
+    "Ideals": [
+        "Who knows"
+    ],
+    "Bonds": [],
+    "Flaws": [
+        "A bunch probably"
+    ]
+}
